@@ -1,39 +1,17 @@
-# Anthony Perry
+### Anthony C. Perry, M.S.
 
-**Founder & Lead Engineer at Meridian Labs**
+AI engineer and researcher investigating human-AI interaction, computer vision, and adaptive learning systems. Currently completing an M.S. in Computer Science (AI/ML emphasis) and applying to PhD programs in Human-Centered AI.
 
-I build exam prep applications that help people pass professional certification exams. My apps combine adaptive learning methodology, spaced repetition, and performance analytics into a polished mobile experience across iOS and Android.
+#### Research Projects
 
-## Meridian Labs
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Meridian Labs** | Adaptive learning engine with 8 proprietary algorithms grounded in 30+ peer-reviewed citations. 10 production apps, 25,000+ questions. | [Website](https://aperry938.github.io) |
+| **ZENith** | Real-time biomechanical form assessment using MediaPipe, VAE quality scoring, and Random Forest classification | [GitHub](https://github.com/aperry938/zenith-mvp) |
+| **Her OS** | Longitudinal study of human-AI conversational interaction (~70 episodes, 100+ hours) across Gemini, Claude, ChatGPT, and Grok | [GitHub](https://github.com/aperry938/her-os-v1) · [YouTube](https://youtube.com/@anth.onomous) |
+| **Interactive AI Map** | D3.js visualization mapping the AI/ML landscape with mastery tracking | [GitHub](https://github.com/aperry938/Interactive-AI-Map) · [Demo](https://aperry938.github.io/Interactive-AI-Map/) |
 
-Meridian Labs publishes exam prep apps across four brands:
+#### Background
+U.S. Air Force veteran (C-17 Loadmaster, Air Medal) · M.S. Kinesiology (3.87 GPA) · M.S. Computer Science AI/ML (in progress) · Trilingual (English, German, Spanish)
 
-| Brand | Focus | Apps |
-|-------|-------|------|
-| **GlowStudy** | Beauty & cosmetology board exams | Esthetician, Cosmetology, Barber, Nail Tech |
-| **VitalPrep** | Healthcare certifications | PTCB Pharmacy Tech |
-| **AcePrep** | Professional exams | ASVAB Military |
-| **TechPrep** | IT certifications | SecAI+ (CompTIA) |
-
-All apps share a proprietary methodology engine featuring adaptive difficulty, bloom-tier progression, certificate verification, and pass guarantee tracking.
-
-## Current Projects
-
-- **Zenith MVP** &mdash; Real-time AI movement coaching using computer vision, pose classification, and kinesiology-based feedback. FastAPI + React + MediaPipe + TensorFlow.
-- **HER-OS** &mdash; Conversational AI interface with adaptive personality modeling and emotional intelligence. React + Vite + Gemini.
-
-## Tech Stack
-
-**Mobile:** React Native (Expo), RevenueCat, AsyncStorage
-
-**Backend:** Node.js, Python, FastAPI
-
-**AI/ML:** TensorFlow, MediaPipe, Gemini API, custom VAE models
-
-**Infrastructure:** GitHub Actions, EAS Build, App Store Connect, Google Play Console
-
-## Links
-
-- [Meridian Labs Developer Site](https://aperry938.github.io)
-- [Privacy Policy](https://aperry938.github.io/privacy.html)
-- [Support](https://aperry938.github.io/support.html)
+[Research CV](https://aperry938.github.io/cv.html) · [LinkedIn](https://linkedin.com/in/aperry938)
