@@ -1,20 +1,31 @@
 ### Anthony C. Perry, M.S.
 
-AI researcher and engineer investigating the phenomenological dimensions of human-AI interaction, adaptive learning systems, and computer vision. M.S. Computer Science (AI/ML emphasis), building adaptive learning systems and investigating human-AI interaction.
+Researching the safety implications of human-AI interaction: how AI companion behavior shapes human communication, trust, and epistemic judgment. Building production adaptive AI systems and studying what happens when those systems get the relationship wrong.
 
-U.S. Air Force veteran (C-17 Loadmaster, Air Medal) · M.S. Kinesiology (3.87 GPA) · Trilingual (English, German, Spanish)
+U.S. Air Force veteran (C-17 Loadmaster, Air Medal) · M.S. Kinesiology, CBU (3.87 GPA) · M.S. Computer Science (AI/ML), WGU · Trilingual (English, German, Spanish)
 
 ---
 
-#### Research Projects
+#### Research
+
+| Paper | Venue | Status |
+|-------|-------|--------|
+| The Epistemic Harm of AI Sycophancy | Philosophy & Technology | Submitted · [Preprint](https://doi.org/10.5281/zenodo.19072152) |
+| The Safety-Agency Inversion (68 sessions, 83+ hours, 4 frontier models) | Int. Journal of Human-Computer Interaction | Submitted · [Preprint + Data](https://doi.org/10.5281/zenodo.19091597) |
+| Judgment-Free but Not Risk-Free (N=55, pre-registered) | OzCHI 2026 LBW | Targeting · [Pre-Reg (OSF)](https://osf.io/5xzjs) |
+| Confidence-Calibrated Adaptive Learning Engine | AIED 2026 LBR | Submitted · [Preprint](https://doi.org/10.5281/zenodo.18820462) |
+| Cross-Domain Analysis (35,250 items, 22 apps) | EDM 2026 Poster/Demo | Submitted · [Preprint](https://doi.org/10.5281/zenodo.19024683) |
+
+#### Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Her OS** | Longitudinal study of human-AI conversational interaction (~70 episodes, 100+ hours). Voice-first AI companion with H.E.R.V.A.C. benchmark and Nine Circles adversarial testing. | [**Live Demo**](https://aperry938.github.io/her-os-v1/) · [GitHub](https://github.com/aperry938/her-os-v1) · [YouTube](https://youtube.com/@anth.onomous) |
-| **Meridian Labs** | Adaptive learning engine with 6 proprietary algorithms grounded in 30+ peer-reviewed citations. 21 production apps, 40,000+ questions across 4 brands. | [Website](https://meridianlabs.us) · [Methodology](https://meridianlabs.us/methodology.html) |
-| **ZENith** | Real-time biomechanical form assessment using MediaPipe pose estimation, VAE quality scoring, and Random Forest classification. | [GitHub](https://github.com/aperry938/zenith-mvp) |
-| **Interactive AI Map** | D3.js force-directed graph mapping the AI/ML landscape with interactive mastery tracking. | [**Live Demo**](https://aperry938.github.io/Interactive-AI-Map/) · [GitHub](https://github.com/aperry938/Interactive-AI-Map) |
+| **her** | Longitudinal study of relational competence across frontier voice AI. HERVAC evaluation framework and Nine Circles adversarial protocol. | [Demo](https://aperry938.github.io/her-os-v1/) · [GitHub](https://github.com/aperry938/her-os-v1) |
+| **Meridian Labs** | Adaptive learning platform: 26 production apps, 68,000+ items, 6 algorithms grounded in cognitive science. | [Website](https://meridianlabs.us) · [Methodology](https://meridianlabs.us/methodology.html) |
+| **ZENith** | Biomechanical assessment via pose estimation, 30 domain-informed features, VAE quality scoring. | [GitHub](https://github.com/aperry938/zenith-mvp) |
+| **Somnia.ai** | Sleep and dream wellness system with AI journaling, crisis detection, and programmatic audio synthesis. | [Demo](https://aperry938.github.io/somnia-ai/) · [GitHub](https://github.com/aperry938/somnia-ai) |
+| **Interactive AI Map** | Force-directed knowledge graph of 42 AI/ML concepts with Bayesian Knowledge Tracing. | [Demo](https://aperry938.github.io/Interactive-AI-Map/) · [GitHub](https://github.com/aperry938/Interactive-AI-Map) |
 
 ---
 
-[Portfolio](https://aperry938.github.io) · [Research CV](https://aperry938.github.io/cv.html) · [LinkedIn](https://linkedin.com/in/aperry938) · [YouTube](https://youtube.com/@anth.onomous)
+[Portfolio](https://aperry938.github.io) · [CV](https://aperry938.github.io/cv.html) · [ORCID](https://orcid.org/0009-0000-2598-1296) · [LinkedIn](https://linkedin.com/in/aperry938)
