@@ -10,7 +10,7 @@ U.S. Air Force veteran (C-17 Loadmaster, Air Medal) · M.S. Kinesiology, CBU (3.
 
 | Paper | Venue | Status |
 |-------|-------|--------|
-| The Epistemic Harm of AI Sycophancy | Philosophy & Technology | Submitted · [Preprint](https://doi.org/10.5281/zenodo.19072152) |
+| The Epistemic Harm of AI Sycophancy | AI and Ethics (Springer) | In preparation · [Preprint](https://doi.org/10.5281/zenodo.19072152) |
 | The Safety-Agency Inversion (68 sessions, 83+ hours, 4 frontier models) | Int. Journal of Human-Computer Interaction | Submitted · [Preprint + Data](https://doi.org/10.5281/zenodo.19144583) |
 | Judgment-Free but Not Risk-Free (N=55, pre-registered) | OzCHI 2026 LBW | Targeting · [Pre-Reg (OSF)](https://osf.io/5xzjs) |
 | Confidence-Calibrated Adaptive Learning Engine | AIED 2026 LBR | Submitted · [Preprint](https://doi.org/10.5281/zenodo.18820462) |
